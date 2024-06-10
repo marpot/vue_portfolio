@@ -9,7 +9,7 @@
                            :class="{ 'is-animating': job.isAnimating }"
                            @mouseover="startAnimation(index)"
                            @mouseleave="stopAnimation(index)">
-                          <div class="card-content">
+                          <div class="card-content" style="color:white">
                               <h3>{{ job.title }}</h3>
                               <p>{{ job.company }}</p>
                               <p>Okres zatrudnienia: {{ job.period }}</p>

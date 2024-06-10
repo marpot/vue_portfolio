@@ -12,7 +12,7 @@
         >
           <div class="card glass-card fade-in" :class="{ 'animated': isAnimating[index] }">
             <div class="card-content">
-              <h3 class="subtitle has-text-centered">{{ skill.name }}</h3>
+              <h3 class="subtitle has-text-centered has-text-white">{{ skill.name }}</h3>
               <div class="custom-box is-flex is-align-items-center is-justify-content-center">
                 <figure class="image is-128x128">
                   <img class="tech-image" :src="skill.image" :alt="skill.alt">
