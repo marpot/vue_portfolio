@@ -7,7 +7,7 @@
                         <h2 class="title has-text-white mt-2 mb-3">Kontakt</h2>
                     </div>
                     
-                    <form method="POST" action="https://herotofu.com/start" class="box p-4">
+                    <form method="POST" action="https://herotofu.com/0eaeaab0-2711-11ef-af42-79d7585798b6" class="box p-4">
                         <div class="field">
                             <label class="label has-text-white">Przedstaw się</label>
                             <div class="control">
