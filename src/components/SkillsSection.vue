@@ -35,9 +35,10 @@ export default {
         { name: 'HTML & CSS', image: 'images/HTML5_Logo_512.png', alt: 'HTML5 Logo' },
         { name: 'Tailwind CSS', image: 'images/tailwind.png', alt: 'Tailwind CSS Logo' },
         { name: 'Bulma CSS', image: 'images/Bulma_Logo.png', alt: 'Bulma CSS Logo' }, 
-        { name: 'JavaScript', image: 'images/js.png', alt: 'JavaScript Logo' }
+        { name: 'JavaScript', image: 'images/js.png', alt: 'JavaScript Logo' },
+        { name: 'Vue.js', image: 'images/vue.png', alt: 'Vue logo' },
       ],
-      isAnimating: [false, false, false, false]
+      isAnimating: [false, false, false, false, false]
     }
   },
   methods: {
