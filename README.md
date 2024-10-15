@@ -38,6 +38,6 @@ After installing the dependencies, run the command:
 bash
 
 npm run serve
-vbnet
+
 
 
