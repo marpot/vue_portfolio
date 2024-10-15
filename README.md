@@ -24,3 +24,21 @@ To run the project locally, you will need:
 1. Clone the repository: 
    ```bash
    git clone https://github.com/marpot/vue_portfolio
+Navigate to the project directory:
+bash
+
+cd portfolio
+Install dependencies:
+bash
+
+npm install
+Running
+After installing the dependencies, run the command:
+
+bash
+
+npm run serve
+vbnet
+
+
+This formatting uses code blocks for commands and links, making it easier to read and follow on GitHub. Let me know if you 
