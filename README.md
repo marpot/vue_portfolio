@@ -35,8 +35,7 @@ npm install
 Running
 After installing the dependencies, run the command:
 
-bash
-
+```bash
 npm run serve
 
 
