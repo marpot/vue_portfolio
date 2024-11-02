@@ -4,7 +4,7 @@ This is my portfolio built using Vue.js. It showcases my projects, skills, and c
 
 ## Demo
 
-You can see a working version of my portfolio at: [https://portfolio-2hurhr5ju-marpots-projects.vercel.app/](https://portfolio-2hurhr5ju-marpots-projects.vercel.app/)
+You can see a working version of my portfolio https://vue-portfolio-zeta.vercel.app/
 
 ## Features
 
